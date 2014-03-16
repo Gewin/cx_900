@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>cx/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>131</Column0><Column1>1</Column1><Column2>27</Column2><Column3>1242340</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Breakpoints</Factory></Window><Window><Factory>Tool-Output</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>708</ColumnWidth1><ColumnWidth2>189</ColumnWidth2><ColumnWidth3>47</ColumnWidth3></Build>
+      <Find-in-Files>
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>343</ColumnWidth0><ColumnWidth1>49</ColumnWidth1><ColumnWidth2>589</ColumnWidth2></Find-in-Files>
+    <Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Debug-Log><TerminalIO/><CodeCoveragePlugin/><Profiling/><Watch><PreferedWindows><Position>4</Position><ScreenPosX>832</ScreenPosX><ScreenPosY>216</ScreenPosY><Windows/></PreferedWindows></Watch><SourceBrowser><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></SourceBrowser><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Tool-Output</Factory></Window></Windows></PreferedWindows></Breakpoints><Tool-Output><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Breakpoints</Factory></Window></Windows></PreferedWindows></Tool-Output></Static>
+    <Windows>
+      
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-19904-10553</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>cx</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd3><Tabs><Tab><Identity>TabID-3272-13363</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\cx\AD_RF.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>253</SelStart><SelEnd>253</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\cx\ADF4118.c</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>1119</SelStart><SelEnd>1130</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\cx\ADF4118.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\cx\keyanswer1.c</Filename><XPos>0</XPos><YPos>452</YPos><SelStart>11183</SelStart><SelEnd>11183</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\cx\LCD_240160.h</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>417</SelStart><SelEnd>417</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\cx\LCD_240160.c</Filename><XPos>0</XPos><YPos>126</YPos><SelStart>3527</SelStart><SelEnd>3527</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\cx\main.C</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>2349</SelStart><SelEnd>2349</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\cx\AD_RF.c</Filename><XPos>0</XPos><YPos>262</YPos><SelStart>6710</SelStart><SelEnd>6710</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\cx900\cx\main.C</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>2022</SelStart><SelEnd>2022</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\cx900\cx\keyanswer1.c</Filename><XPos>0</XPos><YPos>358</YPos><SelStart>9192</SelStart><SelEnd>9192</SelEnd></Tab><ActiveTab>9</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\cx900\cx\AD_RF.c</Filename><XPos>0</XPos><YPos>86</YPos><SelStart>2170</SelStart><SelEnd>2170</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-003bb048><key>iaridepm1</key></Toolbar-003bb048></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>511</Bottom><Right>179</Right><x>-2</x><y>-2</y><xscreen>0</xscreen><yscreen>0</yscreen><sizeHorzCX>0</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>176758</sizeVertCX><sizeVertCY>741329</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>136</Bottom><Right>1026</Right><x>-2</x><y>-2</y><xscreen>1028</xscreen><yscreen>138</yscreen><sizeHorzCX>1003906</sizeHorzCX><sizeHorzCY>199422</sizeHorzCY><sizeVertCX>0</sizeVertCX><sizeVertCY>0</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

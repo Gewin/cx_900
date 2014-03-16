@@ -1,0 +1,13 @@
+---- beiguang_off Matches (12 in 3 files) ----
+AD_RF.c (d:\cx900\cx):volatile long int flagtime = 0,bgon_off = 0,beiguang_off = 0;
+AD_RF.c (d:\cx900\cx):				if(beiguang_off % 2 == 0)
+AD_RF.c (d:\cx900\cx):					//beiguang_off++; 
+AD_RF.c (d:\cx900\cx):			 if(beiguang_off % 3 == 0)
+AD_RF.c (d:\cx900\cx):			 if(beiguang_off % 3 == 0)
+AD_RF.c (d:\cx900\cx):			if(beiguang_off % 3 == 0)
+AD_RF.c (d:\cx900\cx):		  if(beiguang_off % 3 == 0)
+AD_RF.c (d:\cx900\cx):	beiguang_off++;             //控制开机时背光亮3s自动关闭
+AD_RF.c (d:\cx900\cx):	if(beiguang_off > 5000)
+AD_RF.c (d:\cx900\cx):		beiguang_off = 0;
+AD_RF.h (d:\cx900\cx):extern volatile long int flagtime,bgon_off,beiguang_off;
+Keyanswer1.c (d:\cx900\cx):		if(beiguang_off == 3)

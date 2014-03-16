@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_DB.pbi</file>
+      <file>$PROJ_DIR$\dis_kuang.c</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\WFP.r90</file>
+      <file>$PROJ_DIR$\WFP.C</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_CHU.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\INT6.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD_240160.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\cx.hex</file>
+      <file>$PROJ_DIR$\Debug\Obj\LCD_240160.r90</file>
+      <file>$PROJ_DIR$\TRS0.C</file>
+      <file>$TOOLKIT_DIR$\inc\iom103.h</file>
+      <file>$TOOLKIT_DIR$\inc\iom128.h</file>
+      <file>$PROJ_DIR$\KEYSCAN1.C</file>
+      <file>$PROJ_DIR$\DIS_SHU.C</file>
+      <file>$PROJ_DIR$\Debug\Obj\INT6.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_DIAN.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\ina90.h</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl3s-ec.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\main_menu.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\INT6.C</file>
+      <file>$PROJ_DIR$\DIS_MENU.C</file>
+      <file>$PROJ_DIR$\Debug\Obj\INT7.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\TRS0.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dis_kuang.r90</file>
+      <file>$PROJ_DIR$\main_menu.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\INT5.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\INT5.pbi</file>
+      <file>$TOOLKIT_DIR$\src\template\cfgm128.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\AD_RF.pbi</file>
+      <file>$PROJ_DIR$\INT7.C</file>
+      <file>$PROJ_DIR$\INT4.C</file>
+      <file>$PROJ_DIR$\Debug\Exe\cx.d90</file>
+      <file>$PROJ_DIR$\DIS_DIAN.C</file>
+      <file>$PROJ_DIR$\DIS_DB.C</file>
+      <file>$PROJ_DIR$\INT5.C</file>
+      <file>$PROJ_DIR$\Debug\Obj\INT7.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_MENU.r90</file>
+      <file>$PROJ_DIR$\DIS_CHU.C</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_SHU.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_SHU.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_MENU.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\iomacro.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\WFP.pbi</file>
+      <file>$TOOLKIT_DIR$\src\template\cfg3s.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\keyanswer1.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\dis_kuang.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\KEYSCAN1.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_CHU.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADF4118.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_DB.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\DIS_DIAN.r90</file>
+      <file>$TOOLKIT_DIR$\inc\inavr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\INT4.r90</file>
+      <file>$PROJ_DIR$\Debug\Exe\cxhex.hex</file>
+      <file>$TOOLKIT_DIR$\inc\clib\math.h</file>
+      <file>$PROJ_DIR$\cx.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\cx.eep</file>
+      <file>$PROJ_DIR$\Debug\Obj\TRS0.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\main_menu.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\keyanswer1.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\cx.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADF4118.r90</file>
+      <file>$TOOLKIT_DIR$\inc\comp_a90.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\KEYSCAN1.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\AD_RF.r90</file>
+      <file>$PROJ_DIR$\Debug\Obj\INT4.pbi</file>
+      <file>$PROJ_DIR$\ADF4118.c</file>
+      <file>$PROJ_DIR$\AD_RF.h</file>
+      <file>$PROJ_DIR$\AD_RF.c</file>
+      <file>$PROJ_DIR$\ADF4118.h</file>
+      <file>$PROJ_DIR$\cx_common.h</file>
+      <file>$PROJ_DIR$\keyanswer1.c</file>
+      <file>$PROJ_DIR$\keyanswer1.h</file>
+      <file>$PROJ_DIR$\LCD_240160.c</file>
+      <file>$PROJ_DIR$\LCD_240160.h</file>
+      <file>$PROJ_DIR$\main.C</file>
+      <file>$PROJ_DIR$\usart.c</file>
+      <file>$PROJ_DIR$\usart.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\dis_kuang.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\WFP.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\cx.hex</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 29 46 56 58 27 6 23 69 3 65 48 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\TRS0.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68 61</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68 61</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\KEYSCAN1.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68 61</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DIS_SHU.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\INT6.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 33 8 62</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DIS_MENU.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main_menu.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\INT7.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\INT4.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\cx.d90</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 8 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 29 46 67 70 9 65 48 44 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DIS_DIAN.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DIS_DB.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\INT5.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\DIS_CHU.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 11 43 17 57 2 68</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 43 17 57 2 68</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\cxhex.hex</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 29 46 67 70 9 65 48 44 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\cx.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 54 30 7 50 20 49</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ADF4118.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68 75</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68 75</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\AD_RF.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68 60 47 76 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68 60 47 76 80</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\keyanswer1.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68 60 47 76 78 75 80 83 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68 60 47 76 78 75 80 83 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\LCD_240160.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68 80</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.C</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68 60 47 76 78 75 80 83 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68 60 47 76 78 75 80 83 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\usart.c</name>
+      <outputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCAVR</name>
+          <file> 12 43 17 57 2 68 83 80</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12 43 17 57 2 68 83 80</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
